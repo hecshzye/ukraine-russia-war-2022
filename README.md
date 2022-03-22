@@ -1,4 +1,4 @@
-# Ukraine Russia War in 2022
+# Ukraine-Russia War in 2022
 
 ![FMYJT2rWQAEzUIe](https://user-images.githubusercontent.com/87764103/159445414-43c96e1f-08da-4358-af64-4245de91ccfd.jpeg)
 img source: https://twitter.com/MarcHorat
