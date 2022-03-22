@@ -1,5 +1,10 @@
 # Ukraine Russia War in 2022
 
+https://pbs.twimg.com/media/FMYJT2rWQAEzUIe?format=jpg&name=medium
+
+
+
+
 ### Performing Exploratory Data Analysis on the ongoing invasion of Ukraine by Russia. 
 
   **Covering** 
