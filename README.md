@@ -1,8 +1,7 @@
 # Ukraine Russia War in 2022
 
-https://pbs.twimg.com/media/FMYJT2rWQAEzUIe?format=jpg&name=medium
-
-
+![FMYJT2rWQAEzUIe](https://user-images.githubusercontent.com/87764103/159445414-43c96e1f-08da-4358-af64-4245de91ccfd.jpeg)
+*img source: https://twitter.com/MarcHorat
 
 
 ### Performing Exploratory Data Analysis on the ongoing invasion of Ukraine by Russia. 
