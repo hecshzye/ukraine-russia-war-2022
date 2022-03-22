@@ -1,7 +1,9 @@
 # Ukraine Russia War in 2022
 
 ### Performing Exploratory Data Analysis on the ongoing invasion of Ukraine by Russia. 
-  - Covering 
+
+  **Covering** 
+  
       - Equipment Losses
       - Death Toll
       - Military Wounded.
@@ -10,22 +12,22 @@
       
 # Dataset
 
-- Main data sources are **Armed Forces of Ukraine and Ministry of Defence of Ukraine**. 
-- They gathered data from different points of the country. 
-- The calculation is complicated by the high intensity of hostilities.
+    - Main data sources are **Armed Forces of Ukraine and Ministry of Defence of Ukraine**. 
+    - They gathered data from different points of the country. 
+    - The calculation is complicated by the high intensity of hostilities.
 
 # Sources
   
-- **invaders** - All *Russians Prisoner of War* (POW).
+    - **invaders** - All *Russians Prisoner of War* (POW).
 
-- **oryxspioenkop** - Ukraine and Russia Equipment Losses. 
+    - **oryxspioenkop** - Ukraine and Russia Equipment Losses. 
                       This list only includes destroyed vehicles and equipment of which photo or videographic evidence is available. Therefore, the                               amount of equipment destroyed is significantly higher than recorded here.
                      
-- **liveuamap** - Live Interactive Map with events that happened.
+    - **liveuamap** - Live Interactive Map with events that happened.
 
-- **Correctiv** - Live monitoring of all sanctions against Russia.
+    - **Correctiv** - Live monitoring of all sanctions against Russia.
 
-- **Reuters** - Tracking sanctions against Russia.
+    - **Reuters** - Tracking sanctions against Russia.
       
   
 ## Data Dictionary 
