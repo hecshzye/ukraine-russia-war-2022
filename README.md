@@ -12,8 +12,15 @@ img source: https://twitter.com/MarcHorat
   - Death Toll
   - Military Wounded.
   - Prisoner of War of Russian.
-      
-      
+  
+# Results
+![Screenshot 2022-04-07 at 18 27 53](https://user-images.githubusercontent.com/87764103/162204468-7028a9f4-080f-4813-a2af-76b111538860.png)
+![Screenshot 2022-04-07 at 18 28 02](https://user-images.githubusercontent.com/87764103/162204505-8005cb25-2c6d-4adc-89f6-824d4e0874f7.png)
+![Screenshot 2022-04-07 at 18 28 08](https://user-images.githubusercontent.com/87764103/162204525-8f2ae1ff-6e27-4568-80c9-f10ba2ad65f5.png)
+![Screenshot 2022-04-07 at 18 28 20](https://user-images.githubusercontent.com/87764103/162204560-210d9db2-1f17-4e1b-86e0-ccc12581e1d4.png)
+![Screenshot 2022-04-07 at 18 28 30](https://user-images.githubusercontent.com/87764103/162204586-d280327c-c12f-4a96-8791-6948fca5fc25.png)
+![Screenshot 2022-04-07 at 18 28 45](https://user-images.githubusercontent.com/87764103/162204645-3d39d2a6-eb13-4353-9c87-1641e59d5f24.png)
+ 
 # Dataset
 
   - Main data sources are **Armed Forces of Ukraine and Ministry of Defence of Ukraine**. 
